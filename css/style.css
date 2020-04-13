@@ -21,6 +21,48 @@ body {
     body {
       font-size: 16px; } }
 
+/* --------------- Added for image view */
+
+#loadMoreContent {
+  display: none;
+
+}
+
+#iframe {
+  margin-bottom: 0px !important;
+  height: 400px !important;
+  margin: 0px !important;
+}
+
+.test {
+  margin-bottom: 40px !important;
+  padding-bottom: 0px !important;
+}
+
+/* Create four equal columns that floats next to eachother */
+.img-fluid {
+  display: block;
+}
+
+/* --------------------------*/
+
+.modal-dialog {
+  width: 1200px;
+
+}
+
+.desc:hover {
+  background-color:  white !important;
+  opacity: 0.2 !important;
+  background-image: url("images/3.jpg") !important;
+}
+
+
+
+.modal-dialog img {
+  width: 70%;
+}
+
 a {
   color: #2c98f0;
   -webkit-transition: 0.5s;

@@ -8,6 +8,7 @@
   height: 0;
   padding: 0;
   overflow: hidden;
+  margin: 0px;
 
   .embed-responsive-item,
   iframe,
@@ -21,6 +22,8 @@
     height: 100%;
     width: 100%;
     border: 0;
+    margin: 0px;
+    padding: 0px;
   }
 }
 
